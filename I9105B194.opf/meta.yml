@@ -1,0 +1,16 @@
+id: I9105B194
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:11:45.671988
+last_modified: 2023-02-08 15:11:45.672093
+source_metadata:
+  title: Maitreyavyākaraṇa
+  language: sa
+bases:
+  9AE3:
+    base_file: 9AE3.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
